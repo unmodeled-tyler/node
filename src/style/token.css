@@ -507,20 +507,20 @@
     --text-on-hover: var(--nord1);
     
     /* Surface Colors */
-    --surface-primary: var(--nord1);
-    --surface-secondary: var(--nord2);
+    --surface-primary: var(--nord0);
+    --surface-secondary: var(--nord1);
     --surface-success: rgba(163, 190, 140, 0.15);
     --surface-information: rgba(129, 161, 193, 0.15);
     --surface-warning: rgba(235, 203, 139, 0.15);
     --surface-cuation: rgba(191, 97, 106, 0.15);
-    --surface-action: var(--nord2);
-    --surface-action-hover: var(--nord3);
-    --surface-disabled: var(--nord1);
+    --surface-action: var(--nord1);
+    --surface-action-hover: var(--nord2);
+    --surface-disabled: var(--nord0);
     --surface-tertiary: var(--nord0);
     --surface-tertiary-hover: var(--nord1);
-    --surface-card: var(--nord1);
-    --surface-card-hover: var(--nord2);
-    --surface-card-focus: var(--nord3);
+    --surface-card: var(--nord0);
+    --surface-card-hover: var(--nord1);
+    --surface-card-focus: var(--nord2);
     --surface-card-default: 1.25rem;
     
     /* Border Colors */
@@ -574,18 +574,18 @@
     --fill-fill-primary-hover: var(--nord7);
     --fill-fill-primary-active: var(--nord9);
     --fill-fill-primary-disabled: var(--nord3);
-    --fill-fill-tertiary: var(--nord1);
+    --fill-fill-tertiary: var(--nord0);
     --fill-fill-transparent: transparent;
     --fill-fill-transparent-hover: var(--nord1);
-    --fill-fill-tertiary-hover: var(--nord2);
-    --fill-fill-tertiary-active: var(--nord3);
-    --fill-fill-tertiary-disabled: var(--nord1);
-    --fill-fill-transparent-active: var(--nord2);
+    --fill-fill-tertiary-hover: var(--nord1);
+    --fill-fill-tertiary-active: var(--nord2);
+    --fill-fill-tertiary-disabled: var(--nord0);
+    --fill-fill-transparent-active: var(--nord1);
     --fill-fill-transparent-disabled: transparent;
-    --fill-fill-secondary-disabled: var(--nord2);
-    --fill-fill-secondary-active: var(--nord3);
-    --fill-fill-secondary-hover: var(--nord2);
-    --fill-fill-secondary: var(--nord1);
+    --fill-fill-secondary-disabled: var(--nord1);
+    --fill-fill-secondary-active: var(--nord2);
+    --fill-fill-secondary-hover: var(--nord1);
+    --fill-fill-secondary: var(--nord0);
     --fill-fill-success: var(--nord14);
     --fill-fill-success-hover: #8faa76;
     --fill-fill-success-active: #7a9a63;
@@ -604,9 +604,9 @@
     
     /* Background Colors */
     --bg-page: var(--nord0);
-    --bg-primary: var(--nord1);
-    --bg-secondary: var(--nord2);
-    --bg-tertiary: var(--nord3);
+    --bg-primary: var(--nord0);
+    --bg-secondary: var(--nord1);
+    --bg-tertiary: var(--nord2);
     --bg-dark: var(--nord0);
     --bg-dark-primary: var(--nord1);
     --bg-dark-secondary: var(--nord2);
